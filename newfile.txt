@@ -1,0 +1,2 @@
+My new file change
+Changed to check out the new git command
